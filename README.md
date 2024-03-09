@@ -52,8 +52,8 @@ A file titled “How to commit a crime.docx” is part of the uncovered files. I
 
 A text file labelled "hiddenmessage2.txt" was discovered but when opened the content appeared to be scrambled and unreadable. I uploaded the file into HxD to decode and noticed that it identified the data as JFIF which would indicate that its originally a jpeg file and not a txt file. 
 <br />
-<img src="https://i.imgur.com/3hAaBfj.jpeg" height="80%" width="80%" alt=""/>
-
-<br /> SLIDE 4:
+<img src="https://i.imgur.com/iKm4PBT.jpeg" height="80%" width="80%" alt=""/>
 <br />
-<img src="https://i.imgur.com/3aRH0GJ.jpg" height="80%" width="80%" alt=""/>
+I then proceeded to save it with the correct extension .jpeg and the contents of the file was revealed.
+<br />
+<img src="https://i.imgur.com/NRX3MPy.jpeg" height="80%" width="80%" alt=""/>
