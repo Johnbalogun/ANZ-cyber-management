@@ -7,8 +7,9 @@ Investigated e-mails reporting suspicious items.
 Analysed a Packet Capture file using an open source tool to identify and investigate any potential threats.
 
 <br />
+<h2>Tools and Utilities Used</h2>
 
-<h2> walk-through:</h2>
+<h2> Walk-through:</h2>
 
 <p align="center">
 
