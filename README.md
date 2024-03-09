@@ -1,7 +1,5 @@
-# ANZ-cyber-management
+# ANZ-cyber-management/Data Forensics
 <h1> </h1>
-
- ### [YouTube Demonstration Coming Soon](https://youtu.be)
 
 <h2>Description</h2>
 In this project i Completed a simulation focused on identifying cybersecurity threats at ANZ.
@@ -30,12 +28,17 @@ Further exploration involved extracting the images from the TCP stream. This pro
 <br/>
 
 <div class="image-container">
-  <img src="https://i.imgur.com/wFkS3Sc.jpeg" height="20%" width="20%" alt="">
-  <img src="https://i.imgur.com/S8gH1Q5.jpeg" height="20%" width="20%" alt="">
+ <img src="https://i.imgur.com/wFkS3Sc.jpeg" height="20%" width="20%" alt="">
+ <img src="https://i.imgur.com/S8gH1Q5.jpeg" height="20%" width="20%" alt="">
+ <br/>
+
+ I followed the same process for the second image. 
+  <br/>
   <img src="https://i.imgur.com/x8lhxB9.jpeg" height="20%" width="20%" alt="">
+  <img src="https://i.imgur.com/kIgybhs.jpeg" height="20%" width="20%" alt="">
   
-
-
+  <br/>  
+A file titled “How to commit a crime.docx” is part of the uncovered files. I then opened the file in HxD to analyse its contents. after further analysis a paragraph stating “Step 1 find target, step 2 hack them...this is a suspicious document” was discovered within the file.
 
 <br />SLIDE 2:
 <br />
