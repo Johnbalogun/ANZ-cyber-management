@@ -8,6 +8,9 @@ Analysed a Packet Capture file using an open source tool to identify and investi
 
 <br />
 <h2>Tools and Utilities Used</h2>
+WireShark <br />
+HxD Editor <br />
+Base64.guru <br />
 
 <h2> Walk-through:</h2>
 
