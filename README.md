@@ -39,14 +39,17 @@ Further exploration involved extracting the images from the TCP stream. This pro
   
   <br/>  
 A file titled “How to commit a crime.docx” is part of the uncovered files. I then opened the file in HxD to analyse its contents. after further analysis a paragraph stating “Step 1 find target, step 2 hack them...this is a suspicious document” was discovered within the file.
-
-<br />SLIDE 2:
 <br />
-<img src="https://i.imgur.com/IY7wdfd.jpg" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/5YbbGpX.jpeg" height="80%" width="80%" alt=""/>
 
-<br /> SLIDE 3:
+
 <br />
-<img src="https://i.imgur.com/6Y16e7x.jpg" height="80%" width="80%" alt=""/>
+<br />
+
+A text file labelled "hiddenmessage2.txt" was discovered but when opened the content appeared to be scrambled and unreadable. I uploaded the file into HxD to decode and noticed that it identified the data as JFIF which would indicate that its originally a jpeg file and not a txt file. 
+<br />
+<img src="https://i.imgur.com/3hAaBfj.jpeg" height="80%" width="80%" alt=""/>
+
 <br /> SLIDE 4:
 <br />
 <img src="https://i.imgur.com/3aRH0GJ.jpg" height="80%" width="80%" alt=""/>
