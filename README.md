@@ -75,4 +75,10 @@ I proceeded to fix the extension at the end of the file name to.zip. It then ope
 
 <img src="https://i.imgur.com/XMM6iFw.jpg" height="80%" width="80%" alt=""/>
 <img src="https://i.imgur.com/J80iOX7.jpg" height="80%" width="80%" alt=""/>
+<br />
+
+# CONCLUSION
+<br /> 
+When investigating packet capture files, I filtered the relevant traffic to only display Http. 
+Once the downloaded items were identified, I proceeded to investigate them, and rebuild them forensically using a hex viewer. In order to rebuild the files i carved out just that file’s hex data, and deleted any other hex data surrounding it. Utilizing the files data signature, I was then able to further identify the files that were downloaded.
 
