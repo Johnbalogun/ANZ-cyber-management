@@ -57,3 +57,21 @@ A text file labelled "hiddenmessage2.txt" was discovered but when opened the con
 I then proceeded to save it with the correct extension .jpeg and the contents of the file was revealed.
 <br />
 <img src="https://i.imgur.com/NRX3MPy.jpeg" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<br />
+Another Document named “secure.pdf” was found. I opened it in HxD for further analysis as the content weren’t viewable. 
+After uploading it into HxD I noticed it identified the data as “PK” which would indicate it to be a Zip file.
+<br />
+<img src="https://i.imgur.com/3hAaBfj.jpg" height="80%" width="80%" alt=""/>
+<br />
+<img src="https://i.imgur.com/9LkeRjK.jpg" height="80%" width="80%" alt=""/>
+
+Also, at the bottom of the decoded hex it stated, “Password is “secure”. 
+I proceeded to fix the extension at the end of the file name to.zip. It then opened as a password protected zip file which I typed the “secure” password into. Below is a screenshot of the pdf content file called “rawpdf.pdf”.
+<br />
+<br />
+
+<img src="https://i.imgur.com/XMM6iFw.jpg" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/J80iOX7.jpg" height="80%" width="80%" alt=""/>
+
